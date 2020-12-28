@@ -3,3 +3,5 @@ How you doing
 I am writing a code
 But I am have no idea 
 What can I do 
+i am learning to fetch/merge/pull command in git
+is this hard to learn
